@@ -789,7 +789,7 @@ async def handle_check_payment(callback: types.CallbackQuery, state: FSMContext)
     text = (
         "📸 SEND PAYMENT SCREENSHOT\n\n"
         "✅ SEND THE SCREENSHOT HERE AFTER COMPLITING UPI PAYMENT.\n\n"
-        "⚠️ ONLINE AN IMAGE OR SCREENSHOT IS ACCEPTED\n\n"
+        "⚠️ ONLY AN IMAGE OR SCREENSHOT IS ACCEPTED\n\n"
         "Type /cancel to abort."
     )
 
